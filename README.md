@@ -1,16 +1,7 @@
-# fluttervize
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://user-images.githubusercontent.com/53713274/117371861-4beaa980-aed1-11eb-956a-894bedb32082.jpg)
+![2](https://user-images.githubusercontent.com/53713274/117371864-4d1bd680-aed1-11eb-83b8-80dfdc3b1acc.jpg)
+![3](https://user-images.githubusercontent.com/53713274/117371865-4d1bd680-aed1-11eb-847c-aa23e14fd13e.jpg)
+![4](https://user-images.githubusercontent.com/53713274/117371867-4db46d00-aed1-11eb-9159-5dd95d0b0830.jpg)
+![5](https://user-images.githubusercontent.com/53713274/117371870-4db46d00-aed1-11eb-975f-dc5927928c8e.jpg)
+![6](https://user-images.githubusercontent.com/53713274/117371871-4db46d00-aed1-11eb-892e-017df9393351.jpg)
+![7](https://user-images.githubusercontent.com/53713274/117371872-4e4d0380-aed1-11eb-8c0b-4a6259367854.jpg)
